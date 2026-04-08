@@ -1,12 +1,18 @@
-# learning-github
-
-learning git and github from scratch
 
 
+# Age Calculator 🧮
 
-Day 1:
+This is my first Python project created while learning GitHub and Python.
 
-I created my first GitHub repository and learned how to use GitHub Desktop.
+## Features
+- Takes user name as input
+- Calculates user's age
+- Displays personalized output
 
+## Technologies Used
+- Python 3
+- Git & GitHub
 
+## Author
+Almisha
 
